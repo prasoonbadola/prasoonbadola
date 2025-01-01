@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here's the updated version with your site included:<br><br>💻 Full-Stack Developer specializing in MERN stack<br><br>🚀 Passionate about building innovative web applications<br><br>🌱 Always learning and exploring new technologies<br><br>🧑‍💻 Solving real-world problems with code<br><br>🌍 Traveling enthusiast<br><br>🌐 Check out my portfolio: prasoonbadola.site<br><br><br>
+<br><br>💻 Full-Stack Developer specializing in MERN stack<br><br>🚀 Passionate about building innovative web applications<br><br>🌱 Always learning and exploring new technologies<br><br>🧑‍💻 Solving real-world problems with code<br><br>🌍 Traveling enthusiast<br><br>🌐 Check out my portfolio: prasoonbadola.site<br><br><br>
 
 
 ## 🌐 Socials:
